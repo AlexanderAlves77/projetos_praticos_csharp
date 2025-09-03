@@ -1,0 +1,47 @@
+﻿# Build Folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Rider IDE files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Logs
+*.log
+
+# EF Core Migrations (opcional, se você quiser versionar só o código)
+Migrations/
+
+# Database files (se você tiver .mdf/.ldf locais)
+*.mdf
+*.ldf
+
+# appsettings (ignore development secrets)
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+*.Local.json
+
+# JetBrains Rider
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# User secrets (dotnet user-secrets)
+secrets.json
