@@ -1,6 +1,68 @@
 ﻿using JcmSoft.Domain.Entities;
+using JcmSoft.Domain.Entities.Enums;
 using JcmSoft.EFCore.Context;
 
+
+
+/*
+using (var context = new AppDbContext())
+{
+    //adicionando um novo Funcionario
+    var funcionario = new Funcionario
+    {
+        Nome = "Funcionario XXXXXXXX",
+        Cargo = "Desenvolvedor",
+        Salario = 5000,
+        DataContratacao = new DateOnly(2020, 1, 1),
+        DepartamentoId = 5,
+        FuncionarioDetalhe = new FuncionarioDetalhe
+        {
+            EnderecoResidencial = "Rua XXXXXX, 123",
+            DataNascimento = new DateTime(1999, 1, 1),
+            Celular = "99999-9999",
+            Genero = Genero.Masculino,
+            Foto = "foto.jpg",
+            EstadoCivil = EstadoCivil.Solteiro,
+            CPF = "123.456.789-00",
+            Nacionalidade = "Brasileiro",
+            Escolaridade = Escolaridade.Superior
+        }
+    };
+    context.Funcionarios.Add(funcionario);
+    context.SaveChanges();
+
+    // Adicionando um novo Projeto
+    var projeto = new Projeto
+    {
+        Nome = "Projeto XXXX",
+        Descricao = "Descrição do Projeto XXXX",
+        Orcamento = 9999999,
+        DataInicio = DateTime.Now,
+        DataAtualizacao = DateTime.Now,
+        DataFim = DateTime.Now.AddMonths(6),
+        ClienteId = 1,
+        Status = StatusProjeto.EmAndamento
+    };
+    context.Projetos.Add(projeto);
+    context.SaveChanges();
+
+    // Associando Funcionario ao Projeto
+    var funcionarioProjeto = new FuncionarioProjeto
+    {
+        FuncionarioId = funcionario.FuncionarioId,
+        ProjetoId = projeto.ProjetoId,
+        HorasTrabalhadas = 99
+    };
+
+    context.FuncionariosProjetos.Add(funcionarioProjeto);
+    context.SaveChanges();
+}
+
+Console.WriteLine("\nOperação concluída...\n");
+Console.ReadKey();
+*/
+
+/*
 using (AppDbContext context = new AppDbContext())
 {
     context.Database.EnsureDeleted();
@@ -26,7 +88,7 @@ using (AppDbContext context = new AppDbContext())
     //BuscaDeptoPorId(context, 3);
 }
 Console.ReadKey();
-
+*/
 /*
 void CriarDepartamento(AppDbContext context)
 {
@@ -191,7 +253,7 @@ static void IncluirFuncionarioEDetalhe(AppDbContext context)
     context.Funcionarios.Add(funcionario1);
     context.SaveChanges();
 } 
-*/ 
+*/
 
 
 

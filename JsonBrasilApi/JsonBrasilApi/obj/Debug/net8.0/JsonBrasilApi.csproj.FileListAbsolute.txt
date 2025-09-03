@@ -1,0 +1,14 @@
+C:\Users\Alexander\Downloads\AECA\projetos_csharp\JsonBrasilApi\JsonBrasilApi\bin\Debug\net8.0\JsonBrasilApi.exe
+C:\Users\Alexander\Downloads\AECA\projetos_csharp\JsonBrasilApi\JsonBrasilApi\bin\Debug\net8.0\JsonBrasilApi.deps.json
+C:\Users\Alexander\Downloads\AECA\projetos_csharp\JsonBrasilApi\JsonBrasilApi\bin\Debug\net8.0\JsonBrasilApi.runtimeconfig.json
+C:\Users\Alexander\Downloads\AECA\projetos_csharp\JsonBrasilApi\JsonBrasilApi\bin\Debug\net8.0\JsonBrasilApi.dll
+C:\Users\Alexander\Downloads\AECA\projetos_csharp\JsonBrasilApi\JsonBrasilApi\bin\Debug\net8.0\JsonBrasilApi.pdb
+C:\Users\Alexander\Downloads\AECA\projetos_csharp\JsonBrasilApi\JsonBrasilApi\obj\Debug\net8.0\JsonBrasilApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\Downloads\AECA\projetos_csharp\JsonBrasilApi\JsonBrasilApi\obj\Debug\net8.0\JsonBrasilApi.AssemblyInfoInputs.cache
+C:\Users\Alexander\Downloads\AECA\projetos_csharp\JsonBrasilApi\JsonBrasilApi\obj\Debug\net8.0\JsonBrasilApi.AssemblyInfo.cs
+C:\Users\Alexander\Downloads\AECA\projetos_csharp\JsonBrasilApi\JsonBrasilApi\obj\Debug\net8.0\JsonBrasilApi.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Downloads\AECA\projetos_csharp\JsonBrasilApi\JsonBrasilApi\obj\Debug\net8.0\JsonBrasilApi.dll
+C:\Users\Alexander\Downloads\AECA\projetos_csharp\JsonBrasilApi\JsonBrasilApi\obj\Debug\net8.0\refint\JsonBrasilApi.dll
+C:\Users\Alexander\Downloads\AECA\projetos_csharp\JsonBrasilApi\JsonBrasilApi\obj\Debug\net8.0\JsonBrasilApi.pdb
+C:\Users\Alexander\Downloads\AECA\projetos_csharp\JsonBrasilApi\JsonBrasilApi\obj\Debug\net8.0\JsonBrasilApi.genruntimeconfig.cache
+C:\Users\Alexander\Downloads\AECA\projetos_csharp\JsonBrasilApi\JsonBrasilApi\obj\Debug\net8.0\ref\JsonBrasilApi.dll
